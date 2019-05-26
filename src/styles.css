@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.custom-title {
+    font-family: "Open Sans";
+    font-weight: 800;
+}
+
+.custom-text {
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: 500;
+    color: #505050;
+}
